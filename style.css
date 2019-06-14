@@ -1,0 +1,70 @@
+h1{
+    color: orange;
+    text-align: right;
+}
+P:first-letter {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%; 
+    color: red; 
+   }
+   span{
+       background-color: green;
+       color: white;
+       font-style: italic;
+   }
+   h2{
+       color:orange;
+   }
+   ol{
+       color: #808080;
+   }
+   ul{
+        font-weight:bold; 
+   }
+ 
+table {
+  border-collapse: separate;
+  border: 1px solid black;
+  border-spacing: 4px;
+  width: 600;
+}
+
+td {
+  padding: 5px;
+  padding-right: 30px;
+  border: 1px solid black;
+}
+
+th {
+  padding: 5px;
+  border: 1px solid black;
+}
+
+caption {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+.col1{
+  color: orange;
+}
+.col2{
+  background-color: chartreuse;
+}
+.col3{
+  color: red;
+}
+.col4{
+  color:chartreuse;
+}
+.google{
+  color:orange;
+}
+.google1{
+  color:black;
+}
+.news {
+  color: blue;
+}
+
+
